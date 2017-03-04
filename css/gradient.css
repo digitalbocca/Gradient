@@ -1,17 +1,18 @@
 /**
- * (c)2016 - Estúdio Digital Bocca
+ * (c)2017 - Estúdio Digital Bocca
  *
  * Paletas de Gradiente por: http://uigradients.com
  * GitHub Corners por: http://tholman.com/github-corners/
+ * TypedJS por: http://www.mattboldt.com/demos/typed-js/
  */
 
 @font-face {
     font-family: 'edb';
-    src: url('fonts/edb.eot');
-    src: url('fonts/edb.eot?#iefix') format('embedded-opentype'),
-         url('fonts/edb.woff') format('woff'),
-         url('fonts/edb.ttf') format('truetype'),
-         url('fonts/edb.svg#edb') format('svg');
+    src: url('../fonts/edb.eot');
+    src: url('../fonts/edb.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/edb.woff') format('woff'),
+         url('../fonts/edb.ttf') format('truetype'),
+         url('../fonts/edb.svg#edb') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -23,10 +24,16 @@ html,body{
   margin: 0;
 }
 
-.edb-gradient{
+.edb-gradient-laranja{
   background: #FF512F;
   background: -webkit-linear-gradient(to left, #FF512F , #F09819);
   background: linear-gradient(to left, #FF512F , #F09819);
+}
+
+.edb-gradient-azul{
+  background: #1CD8D2;
+  background: -webkit-linear-gradient(to left, #1CD8D2 , #93EDC7);
+  background: linear-gradient(to left, #1CD8D2 , #93EDC7);
 }
 
 .edb-center{
@@ -53,3 +60,27 @@ html,body{
 
 /*Código do GitHub Corners*/
 .github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+
+/*Código do Typed.js*/
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}

@@ -48,11 +48,14 @@ Use sua class no elemento escolhido.
 
 #### Referências
 
-O selo que fica no canto superior direito com o link do reposit&oacute;rio &eacute;:
+Site onde escolho as Paletas de Gradient:
 Paletas de Gradiente por: http://uigradients.com
 
 O selo que fica no canto superior direito com o link do reposit&oacute;rio &eacute;:
 GitHub Corners por: http://tholman.com/github-corners/
+
+A anima&ccedil;&atilde;o do texto &eacute; feita com TypedJS:
+TypedJS por: http://www.mattboldt.com/demos/typed-js/
 
 > Este c&oacute;digo &eacute; apenas para fins did&aacute;ticos e n&atilde;o deve ser usado em produ&ccedil;&atilde;o.
 
