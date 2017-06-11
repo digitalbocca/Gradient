@@ -1,14 +1,18 @@
-# GRADIENT
-Uma Simples Implementa&ccedil;&atilde;o de Fundo **[Degrad&ecirc;](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
+# GRADIENT #
+Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
 
-#### Exemplo:
+[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 
-http://estudiodigitalbocca.com.br/labs/Gradient
+#### Exemplo: ####
 
-#### Como Usar:
+https://estudiodigitalbocca.com.br/labs/Gradient
+
+#### Como Usar: ####
 
 Declare uma class contendo o background na cor escolhida.
-N&atilde;o se esque&ccedil;a de deixar um fallback para browsers antigos.
+Não se esqueça de deixar um fallback para browsers antigos.
 
 ```css
 .edb-gradient{
@@ -46,21 +50,28 @@ Use sua class no elemento escolhido.
 </body>
 ```
 
-#### Referências
+#### Mudanças na v2.1.0 ####
+
+- Alteração no CSS para alteração da fonte.
+- Arquivos de Fontes Locais removidos. Utilizando Google Fonts.
+- jquery atualizado para v3.2.1 via CDN.
+- Atualizado o README.
+
+#### Referências ####
 
 Site onde escolho as Paletas de Gradient:
 Paletas de Gradiente por: http://uigradients.com
 
-O selo que fica no canto superior direito com o link do reposit&oacute;rio &eacute;:
+O selo que fica no canto superior direito com o link do repositório é:
 GitHub Corners por: http://tholman.com/github-corners/
 
-A anima&ccedil;&atilde;o do texto &eacute; feita com TypedJS:
+A animação do texto é feita com TypedJS:
 TypedJS por: http://www.mattboldt.com/demos/typed-js/
 
-> Este c&oacute;digo &eacute; apenas para fins did&aacute;ticos e n&atilde;o deve ser usado em produ&ccedil;&atilde;o.
+> Este código tem somente finalidade didática e não deve ser usado em produção.
 
-> O c&oacute;digo CSS n&atilde;o segue nenhum padr&atilde;o, &eacute; apenas para simular o funcionamento.
+> O código CSS não segue nenhum padrão, servindo apenas para simular o funcionamento.
 
-> O objetivo &eacute; sugerir formas de usar gradient em páginas na pr&aacute;tica.
+> O objetivo é sugerir formas de usar gradient em páginas HTML na prática.
 
 > Obrigado.
