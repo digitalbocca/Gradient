@@ -13,20 +13,20 @@
  * TypedJS por: http://www.mattboldt.com/demos/typed-js/
  */
 
-$(document).ready(function () {
-  console.log('(c)2017 - Estúdio Digital Bocca')
-  $(function () {
-    $('#texto-principal').typed({
-      strings: [
-        'Estúdio Digital Bocca',
-        'Implemente seu Gradient em CSS',
-        'Código no GitHub'
-      ],
-      typeSpeed: 0,
-      backSpeed: 0,
-      startDelay: 1000,
-      backDelay: 4000,
-      loop: true
-    })
-  })
+console.log('(c)2017 - Estúdio Digital Bocca')
+
+var typed = new Typed('#texto-principal', {
+  strings: [
+    'Estúdio Digital Bocca',
+    'Implemente seu Gradient ^300 em CSS',
+    'Código no GitHub'
+  ],
+  typeSpeed: 30,
+  backSpeed: 20,
+  showCursor: true,
+  cursorChar: '|',
+  autoInsertCss: true,
+  startDelay: 1000,
+  backDelay: 3000,
+  loop: true
 })

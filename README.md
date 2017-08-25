@@ -53,6 +53,12 @@ Use sua class no elemento escolhido.
 
 ## Mudanças ##
 
+**2.3.0**
+
+- Removido jQuery.
+- Incluída informação de licença.
+- Atualizada a dependência typed.js.
+
 **2.2.0**
 
 - Javascript movido para outro arquivo.
@@ -78,6 +84,10 @@ GitHub Corners por: http://tholman.com/github-corners/
 
 A animação do texto é feita com TypedJS:
 TypedJS por: http://www.mattboldt.com/demos/typed-js/
+
+## Licença ##
+
+MIT
 
 > Este código tem somente finalidade didática e não deve ser usado em produção.
 
