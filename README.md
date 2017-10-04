@@ -8,7 +8,7 @@ Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/
 
 ## Exemplo: ##
 
-https://estudiodigitalbocca.com.br/labs/Gradient
+https://digitalbocca.github.io/Gradient/
 
 ## Como Usar: ##
 
@@ -52,6 +52,11 @@ Use sua class no elemento escolhido.
 ```
 
 ## Mudanças ##
+
+**2.4.0**
+
+- Exemplo movido para GitHub Pages.
+- Automatizado o Controle de Versão.
 
 **2.3.0**
 

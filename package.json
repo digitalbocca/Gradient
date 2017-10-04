@@ -1,0 +1,35 @@
+{
+  "name": "gradient",
+  "version": "2.4.0",
+  "description": "Uma Simples Implementação de Fundo Degradê.",
+  "main": "index.html",
+  "config": {
+    "commitMessage": "Exemplo movido para GitHub Pages"
+  },
+  "scripts": {
+    "dev": "http-server -o",
+    "git": "npm run gitstatus && npm run gitadd && npm run gitcommit && npm run gittag && npm run gporigin && npm run gpgitlab && npm run gpbitbucket",
+    "gitstatus": "git status",
+    "gitadd": "git add .",
+    "gittag": "git tag v%npm_package_version%",
+    "gitcommit": "git commit -m \"%npm_package_config_commitMessage%\"",
+    "gporigin": "git push origin master --tags",
+    "gpgitlab": "git push gitlab master --tags",
+    "gpbitbucket": "git push bitbucket master --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbocca/Gradient.git"
+  },
+  "keywords": [
+    "degrade",
+    "fundo",
+    "gradient"
+  ],
+  "author": "Gabriel Bertola Bocca - gabriel at estudiodigitalbocca.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalbocca/Gradient/issues"
+  },
+  "homepage": "https://github.com/digitalbocca/Gradient#readme"
+}
