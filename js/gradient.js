@@ -14,6 +14,7 @@
  */
 
 console.log('(c)2017 - Estúdio Digital Bocca')
+console.log('v2.5.0')
 
 var typed = new Typed('#texto-principal', {
   strings: [

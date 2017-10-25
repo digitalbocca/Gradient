@@ -1,4 +1,5 @@
 # GRADIENT #
+## v2.5.0 ##
 
 Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
 
@@ -53,28 +54,7 @@ Use sua class no elemento escolhido.
 
 ## Mudanças ##
 
-**2.4.0**
-
-- Exemplo movido para GitHub Pages.
-- Automatizado o Controle de Versão.
-
-**2.3.0**
-
-- Removido jQuery.
-- Incluída informação de licença.
-- Atualizada a dependência typed.js.
-
-**2.2.0**
-
-- Javascript movido para outro arquivo.
-- Atualização no README.md
-
-**v2.1.0**
-
-- Alteração no CSS para alteração da fonte.
-- Arquivos de Fontes Locais removidos. Utilizando Google Fonts.
-- jquery atualizado para v3.2.1 via CDN.
-- Atualizado o README.
+- Veja no arquivo CHANGELOG.md.
 
 ## Referências ##
 
