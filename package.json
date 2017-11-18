@@ -1,10 +1,10 @@
 {
   "name": "gradient",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "Criado CHANGELOG"
+    "commitMessage": "Utilizando const e let em substituição a var"
   },
   "scripts": {
     "dev": "http-server -o",

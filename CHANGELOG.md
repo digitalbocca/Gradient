@@ -1,5 +1,10 @@
 # GRADIENT #
-## v2.5.0 ##
+## v2.6.0 ##
+
+**Mudanças na v2.6.0**
+
+- Utilizando const e let em substituição a var.
+- Decoração do texto impresso no console.
 
 **Mudanças na v2.5.0**
 

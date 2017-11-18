@@ -13,10 +13,10 @@
  * TypedJS por: http://www.mattboldt.com/demos/typed-js/
  */
 
-console.log('(c)2017 - Estúdio Digital Bocca')
-console.log('v2.5.0')
+console.log('%c (c)2017 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
+console.log('%c EDB Labs - Gradient %c v2.6.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
 
-var typed = new Typed('#texto-principal', {
+const typed = new Typed('#texto-principal', {
   strings: [
     'Estúdio Digital Bocca',
     'Implemente seu Gradient ^300 em CSS',
