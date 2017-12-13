@@ -1,7 +1,9 @@
 # GRADIENT #
-## v2.7.0 ##
+## v2.8.0 ##
 
 Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/5cf26d23900dfd1dc8a6/maintainability)](https://codeclimate.com/github/digitalbocca/Gradient/maintainability)
 
 [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)

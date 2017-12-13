@@ -1,5 +1,13 @@
 # GRADIENT #
-## v2.6.0 ##
+## v2.8.0 ##
+
+**Mudanças na v2.8.0**
+
+- Adicionado selo Code Climate.
+
+**Mudanças na v2.7.0**
+
+- Adicionado cross-var.
 
 **Mudanças na v2.6.0**
 
