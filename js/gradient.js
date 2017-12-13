@@ -11,6 +11,9 @@
  * Paletas de Gradiente por: http://uigradients.com
  * GitHub Corners por: http://tholman.com/github-corners/
  * TypedJS por: http://www.mattboldt.com/demos/typed-js/
+ *
+ * Dependências de Desenvolvimento:
+ * cross-var-no-babel por: https://www.npmjs.com/package/cross-var-no-babel
  */
 
 console.log('%c (c)2017 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
