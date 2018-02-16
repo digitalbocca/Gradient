@@ -1,5 +1,6 @@
-# GRADIENT #
-## v2.8.0 ##
+# GRADIENT
+
+## v2.9.0
 
 Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
 
@@ -9,11 +10,11 @@ Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 
-## Exemplo: ##
+## Exemplo:
 
 https://digitalbocca.github.io/Gradient/
 
-## Como Usar: ##
+## Como Usar:
 
 Declare uma class contendo o background na cor escolhida.
 Não se esqueça de deixar um fallback para browsers antigos.
@@ -54,34 +55,34 @@ Use sua class no elemento escolhido.
 </body>
 ```
 
-## Mudanças ##
+## Mudanças
 
 - Veja no arquivo CHANGELOG.md.
 
-## Referências ##
+## Referências
 
 Site onde escolho as Paletas de Gradient:
-Paletas de Gradiente por: http://uigradients.com
+Paletas de Gradiente por: <http://uigradients.com>
 
 Outro ótimo site para montar sua Paleta:
-Grabient: https://www.grabient.com/
+Grabient: <https://www.grabient.com/>
 
 O selo que fica no canto superior direito com o link do repositório é:
-GitHub Corners por: http://tholman.com/github-corners/
+GitHub Corners por: <http://tholman.com/github-corners/>
 
 A animação do texto é feita com TypedJS:
-TypedJS por: http://www.mattboldt.com/demos/typed-js/
+TypedJS por: <http://www.mattboldt.com/demos/typed-js/>
 
-## Licença ##
+## Licença
 
 MIT
 
 > Este código tem somente finalidade didática e não deve ser usado em produção.
-
+>
 > Os código não seguem nenhuma padronização, servindo apenas para simular o funcionamento.
-
+>
 > O objetivo é sugerir formas de usar gradient em páginas HTML na prática.
-
+>
 > Envie sua sugestão ou correção.
-
+>
 > Obrigado.
