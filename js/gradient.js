@@ -1,5 +1,5 @@
 /**
- * (c)2017 - Estúdio Digital Bocca
+ * (c)2017-2018 - Estúdio Digital Bocca
  *
  * gradient.js - Parte do Projeto digitalbocca/Gradient
  * https://github.com/digitalbocca/Gradient
@@ -14,9 +14,10 @@
  *
  * Dependências de Desenvolvimento:
  * cross-var-no-babel por: https://www.npmjs.com/package/cross-var-no-babel
+ * http-server por: https://www.npmjs.com/package/http-server
  */
 
-console.log('%c (c)2017 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
+console.log('%c (c)2018 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
 console.log('%c EDB Labs - Gradient %c v2.6.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
 
 const typed = new Typed('#texto-principal', {

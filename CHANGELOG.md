@@ -1,6 +1,14 @@
 # GRADIENT
 
-## v2.9.0
+## v2.10.0
+
+## Mudanças na v2.10.0
+
+- Removida tag script da index.
+- Adicionado http-server nas dependências dev.
+- Otimização no CSS.
+- Atualização de dependências.
+- Correção nos arquivos .md.
 
 ## Mudanças na v2.9.0
 
@@ -46,3 +54,5 @@
 - Arquivos de Fontes Locais removidos. Utilizando Google Fonts.
 - jquery atualizado para v3.2.1 via CDN.
 - Atualizado o README.
+
+>(c)2018 - Estúdio Digital Bocca - <https://estudiodigitalbocca.com.br>

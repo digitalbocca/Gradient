@@ -1,5 +1,5 @@
 /**
- * (c)2017 - Estúdio Digital Bocca
+ * (c)2017-2018 - Estúdio Digital Bocca
  *
  * gradient.css - Parte do Projeto digitalbocca/Gradient
  * https://github.com/digitalbocca/Gradient
@@ -14,9 +14,10 @@
  *
  * Dependências de Desenvolvimento:
  * cross-var-no-babel por: https://www.npmjs.com/package/cross-var-no-babel
+ * http-server por: https://www.npmjs.com/package/http-server
  */
 
-html,body{
+body, html{
   height: 100%;
   min-height: 100%;
   position: relative;

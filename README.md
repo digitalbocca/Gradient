@@ -1,6 +1,6 @@
 # GRADIENT
 
-## v2.9.0
+## v2.10.0
 
 Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
 
@@ -10,11 +10,11 @@ Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/
 [![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 
-## Exemplo:
+## Exemplo
 
-https://digitalbocca.github.io/Gradient/
+<https://digitalbocca.github.io/Gradient/>
 
-## Como Usar:
+## Como Usar
 
 Declare uma class contendo o background na cor escolhida.
 Não se esqueça de deixar um fallback para browsers antigos.
@@ -79,7 +79,7 @@ MIT
 
 > Este código tem somente finalidade didática e não deve ser usado em produção.
 >
-> Os código não seguem nenhuma padronização, servindo apenas para simular o funcionamento.
+> O código não seguem nenhuma padronização, servindo apenas para simular o funcionamento.
 >
 > O objetivo é sugerir formas de usar gradient em páginas HTML na prática.
 >
