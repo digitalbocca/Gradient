@@ -13,12 +13,14 @@
  * TypedJS por: http://www.mattboldt.com/demos/typed-js/
  *
  * Dependências de Desenvolvimento:
- * cross-var-no-babel por: https://www.npmjs.com/package/cross-var-no-babel
- * http-server por: https://www.npmjs.com/package/http-server
+ *
+ * Verifique em devDependencies no package.json
  */
 
+import Typed from 'typed.js'
+
 console.log('%c (c)2018 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
-console.log('%c EDB Labs - Gradient %c v2.6.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
+console.log('%c EDB Labs - Gradient %c v3.0.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
 
 const typed = new Typed('#texto-principal', {
   strings: [

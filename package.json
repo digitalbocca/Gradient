@@ -1,13 +1,15 @@
 {
   "name": "gradient",
-  "version": "2.10.0",
+  "version": "3.0.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "Otimização no CSS"
+    "commitMessage": "Adicionado parcel-bundler"
   },
   "scripts": {
-    "dev": "http-server -o",
+    "dev": "parcel -p 8080 ./src/index.html -d ./docs --no-cache",
+    "build": "parcel build ./src/index.html -d ./docs --no-cache --no-source-maps",
+    "server": "http-server ./docs -o",
     "git": "npm run gst && npm run gad && npm run gcm && npm run gtg && npm run gps",
     "gst": "git status",
     "gad": "git add .",
@@ -34,8 +36,13 @@
   },
   "homepage": "https://github.com/digitalbocca/Gradient#readme",
   "devDependencies": {
+    "babel-preset-env": "^1.7.0",
     "cross-var-no-babel": "^1.2.0",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.1",
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.8.1",
+    "parcel-plugin-clean-dist": "0.0.6",
+    "standard": "^11.0.1"
   },
   "dependencies": {
     "typed.js": "^2.0.6"

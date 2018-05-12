@@ -1,6 +1,13 @@
 # GRADIENT
 
-## v2.10.0
+## v3.0.0
+
+## Mudanças na v3.0.0
+
+- Substituído css por sass.
+- Site construido pelo bundler movido para a pasta docs.
+- Arquivos movidos para a pasta src.
+- Adicionado parcel-bundler.
 
 ## Mudanças na v2.10.0
 
