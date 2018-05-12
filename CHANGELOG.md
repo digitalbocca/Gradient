@@ -1,6 +1,11 @@
 # GRADIENT
 
-## v3.0.0
+## v3.0.1
+
+## Mudanças na v3.0.1
+
+- Ignorando package-lock.json.
+- Rebuild dos arquivos de documentação.
 
 ## Mudanças na v3.0.0
 

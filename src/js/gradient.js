@@ -20,9 +20,9 @@
 import Typed from 'typed.js'
 
 console.log('%c (c)2018 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
-console.log('%c EDB Labs - Gradient %c v3.0.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
+console.log('%c EDB Labs - Gradient %c v3.0.1', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
 
-const typed = new Typed('#texto-principal', {
+window.typed = new Typed('#texto-principal', {
   strings: [
     'Estúdio Digital Bocca',
     'Implemente seu Gradient ^300 em CSS',
