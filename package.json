@@ -1,14 +1,14 @@
 {
   "name": "gradient",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "Ignorando package-lock.json"
+    "commitMessage": "Correção no caminho dos arquivos css e js"
   },
   "scripts": {
     "dev": "parcel -p 8080 ./src/index.html -d ./docs --no-cache",
-    "build": "parcel build ./src/index.html -d ./docs --no-cache --no-source-maps",
+    "build": "parcel build ./src/index.html -d ./docs --no-cache --no-source-maps --public-url ./",
     "server": "http-server ./docs -o",
     "git": "npm run gst && npm run gad && npm run gcm && npm run gtg && npm run gps",
     "gst": "git status",

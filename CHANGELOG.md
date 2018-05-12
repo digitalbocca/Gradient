@@ -1,6 +1,10 @@
 # GRADIENT
 
-## v3.0.1
+## v3.0.2
+
+## Mudanças na v3.0.2
+
+- Correção no caminho dos arquivos css e js.
 
 ## Mudanças na v3.0.1
 
