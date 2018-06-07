@@ -1,6 +1,11 @@
 # GRADIENT
 
-## v3.0.2
+## v3.0.3
+
+## Mudanças na v3.0.3
+
+- Atualização de dependências.
+- Correção na minificação do SVG pelo htmlnano.
 
 ## Mudanças na v3.0.2
 

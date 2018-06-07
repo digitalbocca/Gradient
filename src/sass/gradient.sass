@@ -54,6 +54,8 @@ body, html
 /* Código do GitHub Corners */
 
 .github-corner:hover .octo-arm
+  -webkit-animation: octocat-wave 560ms ease-in-out
+  -moz-animation: octocat-wave 560ms ease-in-out
   animation: octocat-wave 560ms ease-in-out
 
 @keyframes octocat-wave
@@ -66,11 +68,35 @@ body, html
   40%, 80%
     transform: rotate(10deg)
 
+@-webkit-keyframes octocat-wave
+  0%, 100%
+    transform: rotate(0)
+
+  20%, 60%
+    transform: rotate(-25deg)
+
+  40%, 80%
+    transform: rotate(10deg)
+
+@-moz-keyframes octocat-wave
+  0%, 100%
+    transform: rotate(0)
+
+  20%, 60%
+    transform: rotate(-25deg)
+
+  40%, 80%
+    transform: rotate(10deg)
+
 @media (max-width:500px)
   .github-corner:hover .octo-arm
+    -webkit-animation: none
+    -moz-animation: none
     animation: none
 
   .github-corner .octo-arm
+    -webkit-animation: octocat-wave 560ms ease-in-out
+    -moz-animation: octocat-wave 560ms ease-in-out
     animation: octocat-wave 560ms ease-in-out
 
 /* Código do typed.js */
@@ -104,3 +130,11 @@ body, html
     opacity: 0
   100%
     opacity: 1
+
+.github-corner > svg
+  fill:#ffffff
+  color:#FF512F
+  position: absolute
+  top: 0
+  border: 0
+  right: 0

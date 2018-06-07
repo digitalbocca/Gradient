@@ -1,14 +1,14 @@
 {
   "name": "gradient",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "Correção no caminho dos arquivos css e js"
+    "commitMessage": "Correção na minificação do SVG pelo htmlnano"
   },
   "scripts": {
-    "dev": "parcel -p 8080 ./src/index.html -d ./docs --no-cache",
-    "build": "parcel build ./src/index.html -d ./docs --no-cache --no-source-maps --public-url ./",
+    "dev": "parcel ./src/index.html -p 8080 -d ./docs --no-cache ",
+    "build": "parcel build ./src/index.html -d ./docs --no-cache --no-source-maps --public-url .",
     "server": "http-server ./docs -o",
     "git": "npm run gst && npm run gad && npm run gcm && npm run gtg && npm run gps",
     "gst": "git status",
@@ -36,15 +36,17 @@
   },
   "homepage": "https://github.com/digitalbocca/Gradient#readme",
   "devDependencies": {
-    "babel-preset-env": "^1.7.0",
     "cross-var-no-babel": "^1.2.0",
+    "css-loader": "^0.28.11",
     "http-server": "^0.11.1",
     "node-sass": "^4.9.0",
     "parcel-bundler": "^1.8.1",
     "parcel-plugin-clean-dist": "0.0.6",
+    "parcel-plugin-inlinesvg": "0.0.14",
+    "sass-loader": "^7.0.3",
     "standard": "^11.0.1"
   },
   "dependencies": {
-    "typed.js": "^2.0.6"
+    "typed.js": "^2.0.7"
   }
 }
