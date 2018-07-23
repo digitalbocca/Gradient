@@ -1,6 +1,10 @@
 # GRADIENT
 
-## v3.0.3
+## v3.1.0
+
+## Mudanças na v3.1.0
+
+- Atualização de dependências.
 
 ## Mudanças na v3.0.3
 

@@ -1,6 +1,6 @@
 # GRADIENT
 
-## v3.0.3
+## v3.1.0
 
 Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
 
