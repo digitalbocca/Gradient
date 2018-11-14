@@ -1,6 +1,6 @@
 {
   "name": "gradient",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
@@ -36,15 +36,17 @@
   },
   "homepage": "https://github.com/digitalbocca/Gradient#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
     "cross-var-no-babel": "^1.2.0",
-    "css-loader": "^1.0.0",
+    "css-loader": "^1.0.1",
     "http-server": "^0.11.1",
-    "node-sass": "^4.9.3",
-    "parcel-bundler": "^1.9.7",
+    "node-sass": "^4.10.0",
+    "parcel-bundler": "^1.10.3",
     "parcel-plugin-clean-dist": "0.0.6",
     "parcel-plugin-inlinesvg": "0.0.14",
     "sass-loader": "^7.1.0",
-    "standard": "^11.0.1"
+    "standard": "^12.0.1"
   },
   "dependencies": {
     "typed.js": "^2.0.9"
