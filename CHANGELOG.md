@@ -1,6 +1,12 @@
 # GRADIENT
 
-## v3.3.0
+## v3.4.0
+
+## Mudanças na v3.4.0
+
+- Adicionado favicon EDB.
+- Removida regra vazia do componente SVG.
+- Atualização de dependências.
 
 ## Mudanças na v3.3.0
 
