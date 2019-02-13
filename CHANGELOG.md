@@ -1,6 +1,11 @@
 # GRADIENT
 
-## v3.5.0
+## v3.6.0
+
+## Mudanças na v3.6.0
+
+- HTML migrado para PUG.
+- Atualizações de dependências.
 
 ## Mudanças na v3.5.0
 
@@ -99,4 +104,12 @@
 - jquery atualizado para v3.2.1 via CDN.
 - Atualizado o README.
 
->(c)2018 - Estúdio Digital Bocca - <https://estudiodigitalbocca.com.br>
+## Mudanças na v2.0.0
+
+- Adicionado TypedJS.
+
+## Mudanças na v1.0.0
+
+- Início do Controle de Versão.
+
+>(c)2018-2019 Estúdio Digital Bocca
