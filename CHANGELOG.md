@@ -1,6 +1,10 @@
 # GRADIENT
 
-## v3.6.0
+## v3.7.0
+
+## Mudanças na v3.7.0
+
+- Atualização de dependências.
 
 ## Mudanças na v3.6.0
 
