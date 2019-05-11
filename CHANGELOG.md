@@ -1,6 +1,11 @@
 # GRADIENT
 
-## v3.7.0
+## v3.8.0
+
+## Mudanças na v3.8.0
+
+- Atualizado endereço do favicon EDB.
+- Atualização de dependências.
 
 ## Mudanças na v3.7.0
 
