@@ -1,6 +1,6 @@
 {
   "name": "gradient",
-  "version": "3.9.0",
+  "version": "3.10.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
@@ -42,8 +42,8 @@
     "parcel-plugin-clean-dist": "0.0.6",
     "parcel-plugin-inlinesvg": "0.1.1",
     "pug": "^2.0.4",
-    "sass": "^1.22.3",
-    "standard": "^12.0.1"
+    "sass": "^1.22.9",
+    "standard": "^13.1.0"
   },
   "dependencies": {
     "typed.js": "^2.0.10"
