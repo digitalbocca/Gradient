@@ -1,26 +1,46 @@
+'use strict'
+
 /**
- * (c)2017-2019 Estúdio Digital Bocca
  *
- * gradient.js - Parte do Projeto digitalbocca/Gradient
+ *                         88  88
+ *                         88  88
+ *                         88  88
+ *     ,adPPYba,   ,adPPYb,88  88,dPPYba,
+ *    a8P_____88  a8"    `Y88  88P'    "8a
+ *    8PP"""""""  8b       88  88       d8
+ *    "8b,   ,aa  "8a,   ,d88  88b,   ,a8"
+ *     `"Ybbd8"'   `"8bbdP"Y8  8Y"Ybbd8"'
+ *
+ *
+ *     (c)2017-2020 Estúdio Digital Bocca
+ *
+ *
+ *
+ *
+ *
+ *
+ * gradient.sass - Parte do Projeto digitalbocca/Gradient
  * https://github.com/digitalbocca/Gradient
  *
- * Exemplo: https://estudiodigitalbocca.com.br/labs/Gradient
+ * Exemplo da implementação:
+ * https://digitalbocca.github.io/Gradient/
  *
- * Dependências:
+ * Ferramentas:
  *
+ * ASCII ART: http://patorjk.com/software/taag/#p=display&f=Univers&t=edb
  * Paletas de Gradiente por: http://uigradients.com
  * GitHub Corners por: http://tholman.com/github-corners/
  * TypedJS por: http://www.mattboldt.com/demos/typed-js/
  *
  * Dependências de Desenvolvimento:
- *
  * Verifique em devDependencies no package.json
+ *
  */
 
 import Typed from 'typed.js'
 
-console.log('%c (c)2019 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
-console.log('%c EDB Labs - Gradient %c v3.7.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
+console.log('%c (c)2020 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
+console.log('%c EDB Labs - Gradient %c v3.12.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
 
 window.typed = new Typed('#texto-principal', {
   strings: [

@@ -1,6 +1,12 @@
 # GRADIENT
 
-## v3.11.0
+## v3.12.0
+
+## Mudanças na v3.12.0
+
+- Atualização na documentação dentro dos arquivos.
+- Trocado plugin que limpa a pasta docs.
+- Atualização de dependências.
 
 ## Mudanças na v3.11.0
 

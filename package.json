@@ -1,11 +1,14 @@
 {
   "name": "gradient",
-  "version": "3.11.0",
+  "version": "3.12.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "Atualização de dependências"
+    "commitMessage": "Trocado o plugin que limpa a pasta docs"
   },
+  "parcelCleanPaths": [
+    "docs"
+  ],
   "scripts": {
     "dev": "parcel ./src/index.pug -p 8080 -d ./docs --no-cache ",
     "build": "parcel build ./src/index.pug -d ./docs --no-cache --no-source-maps --public-url .",
@@ -37,12 +40,12 @@
   "homepage": "https://github.com/digitalbocca/Gradient#readme",
   "devDependencies": {
     "cross-var-no-babel": "^1.2.0",
-    "http-server": "^0.11.1",
+    "http-server": "^0.12.1",
     "parcel-bundler": "^1.12.4",
-    "parcel-plugin-clean-dist": "0.0.6",
+    "parcel-plugin-clean-easy": "^1.0.2",
     "parcel-plugin-inlinesvg": "0.1.1",
     "pug": "^2.0.4",
-    "sass": "^1.23.1",
+    "sass": "^1.25.0",
     "standard": "^14.3.1"
   },
   "dependencies": {
