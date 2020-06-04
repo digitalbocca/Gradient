@@ -1,23 +1,44 @@
-# GRADIENT
+<p align="center">
+  <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
+  <p align="center">Ultima Atualização na v3.13.0</p>
+  <h1 align="center">Gradient</h1>
+  <h4 align="center">
+    Uma Simples Implementação de Fundo 
+    <a href="https://pt.wikipedia.org/wiki/Degrad%C3%AA">Degradê</a>
+  </h4>
+  <p align="center">
+    <img src="https://badgen.net/badge/version/v3.13.0/orange">
+    <a href="https://codeclimate.com/github/digitalbocca/Gradient/maintainability">
+      <img src="https://api.codeclimate.com/v1/badges/5cf26d23900dfd1dc8a6/maintainability"> 
+    </a>
+    <a href="https://standardjs.com/">
+      <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg"> 
+    </a>
+    <p align="center">
+      <a href="https://github.com/standard/standard">
+        <img src="https://cdn.rawgit.com/standard/standard/master/badge.svg"> 
+      </a>
+    </p>
+    <p align="center">
+      <a href="http://forthebadge.com">
+        <img src="https://forthebadge.com/images/badges/built-by-developers.svg"> 
+      </a>
+    </p>
+  </p>
+  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+</p>
 
-## v3.12.0
+---
 
-Uma Simples Implementação de Fundo **[Degradê](https://pt.wikipedia.org/wiki/Degrad%C3%AA)**
+# Gradient - README
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/5cf26d23900dfd1dc8a6/maintainability)](https://codeclimate.com/github/digitalbocca/Gradient/maintainability)
-[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://standardjs.com/)
+---
 
-[![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
-
-[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
-
-## Exemplo
+## EXEMPLO
 
 <https://digitalbocca.github.io/Gradient/>
 
-## Como Usar
+## COMO USAR
 
 Declare uma class contendo o background na cor escolhida.
 Não se esqueça de deixar um fallback para browsers antigos.
@@ -58,11 +79,11 @@ Use sua class no elemento escolhido.
 </body>
 ```
 
-## Mudanças
+## REGISTRO DE ALTERAÇÕES
 
-- Veja no arquivo CHANGELOG.md.
+Veja no arquivo [CHANGELOG](CHANGELOG.md).
 
-## Referências
+## REFERÊNCIAS
 
 Site onde escolho as Paletas de Gradient:
 Paletas de Gradiente por: <http://uigradients.com>
@@ -76,7 +97,7 @@ GitHub Corners por: <http://tholman.com/github-corners/>
 A animação do texto é feita com TypedJS:
 TypedJS por: <http://www.mattboldt.com/demos/typed-js/>
 
-## Licença
+## LICENÇA
 
 MIT
 

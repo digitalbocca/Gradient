@@ -1,10 +1,10 @@
 {
   "name": "gradient",
-  "version": "3.12.0",
+  "version": "3.13.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "Trocado o plugin que limpa a pasta docs"
+    "commitMessage": "README e CHANGELOG seguem o padrão EDB2020"
   },
   "parcelCleanPaths": [
     "docs"
@@ -40,13 +40,13 @@
   "homepage": "https://github.com/digitalbocca/Gradient#readme",
   "devDependencies": {
     "cross-var-no-babel": "^1.2.0",
-    "http-server": "^0.12.1",
+    "http-server": "^0.12.3",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-clean-easy": "^1.0.2",
     "parcel-plugin-inlinesvg": "0.1.1",
-    "pug": "^2.0.4",
-    "sass": "^1.25.0",
-    "standard": "^14.3.1"
+    "pug": "^3.0.0",
+    "sass": "^1.26.7",
+    "standard": "^14.3.4"
   },
   "dependencies": {
     "typed.js": "^2.0.11"
