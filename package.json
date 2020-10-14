@@ -1,10 +1,10 @@
 {
   "name": "gradient",
-  "version": "3.13.0",
+  "version": "3.14.0",
   "description": "Uma Simples Implementação de Fundo Degradê.",
   "main": "index.html",
   "config": {
-    "commitMessage": "README e CHANGELOG seguem o padrão EDB2020"
+    "commitMessage": "Atualização de dependências"
   },
   "parcelCleanPaths": [
     "docs"
@@ -45,7 +45,7 @@
     "parcel-plugin-clean-easy": "^1.0.2",
     "parcel-plugin-inlinesvg": "0.1.1",
     "pug": "^3.0.0",
-    "sass": "^1.26.7",
+    "sass": "^1.27.0",
     "standard": "^14.3.4"
   },
   "dependencies": {
