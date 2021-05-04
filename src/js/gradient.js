@@ -12,7 +12,7 @@
  *     `"Ybbd8"'   `"8bbdP"Y8  8Y"Ybbd8"'
  *
  *
- *     (c)2017-2020 Estúdio Digital Bocca
+ *     (c)2017-2021 Estúdio Digital Bocca
  *
  *
  *
@@ -39,8 +39,8 @@
 
 import Typed from 'typed.js'
 
-console.log('%c (c)2020 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
-console.log('%c EDB Labs - Gradient %c v3.12.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
+console.log('%c (c)2021 - Estúdio Digital Bocca ', 'background-color:#e67e22; color:#fff;')
+console.log('%c EDB Labs - Gradient %c v3.15.0', 'background-color:#e67e22; color:#fff;', 'color:#e67e22;')
 
 window.typed = new Typed('#texto-principal', {
   strings: [
