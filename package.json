@@ -1,10 +1,9 @@
 {
   "name": "gradient",
-  "version": "3.15.0",
+  "version": "3.15.1",
   "description": "Uma Simples Implementação de Fundo Degradê.",
-  "main": false,
   "config": {
-    "commitMessage": "Atualizado o bundler"
+    "commitMessage": "Correção no build"
   },
   "scripts": {
     "cleancache": "rm -rf ./.parcel-cache",

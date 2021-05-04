@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://estudiodigitalbocca.com.br/edb-logo.svg" width="200px">
-  <p align="center">Ultima Atualização na v3.15.0</p>
+  <p align="center">Ultima Atualização na v3.15.1</p>
   <h1 align="center">Gradient</h1>
   <h4 align="center">
     Uma Simples Implementação de Fundo 
     <a href="https://pt.wikipedia.org/wiki/Degrad%C3%AA">Degradê</a>
   </h4>
   <p align="center">
-    <img src="https://badgen.net/badge/version/v3.15.0/orange">
+    <img src="https://badgen.net/badge/version/v3.15.1/orange">
     <a href="https://codeclimate.com/github/digitalbocca/Gradient/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/5cf26d23900dfd1dc8a6/maintainability"> 
     </a>
@@ -25,7 +25,7 @@
       </a>
     </p>
   </p>
-  <p align="center">(c)2020 - Estúdio Digital Bocca</p>
+  <p align="center">(c)2020-2021 Estúdio Digital Bocca</p>
 </p>
 
 ---
@@ -35,6 +35,10 @@
 ---
 
 ## REGISTRO DE ALTERAÇÕES
+
+### Mudanças na v3.15.1
+
+- Correção no build.
 
 ### Mudanças na v3.15.0
 
